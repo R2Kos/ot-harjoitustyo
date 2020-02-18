@@ -1,0 +1,2 @@
+# Harjoitustyö
+(c) Arto Koskela
